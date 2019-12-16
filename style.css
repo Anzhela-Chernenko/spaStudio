@@ -393,7 +393,7 @@ ul{
 
 .details{
     font-size: 16px;
-    padding: 36px 0 33px 0;
+    
 }
 .detailsPress{
     font-size: 15px;
@@ -436,4 +436,7 @@ ul{
 .bidItem__third{
     background-color: #33776a;
 
+}
+.bodyStudio{
+margin:0;
 }
