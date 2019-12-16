@@ -369,6 +369,8 @@ figcaption.fs-transition {
  width: 100%;
     /*grid-auto-flow: column;*/
     grid-template-columns: 25% 25% 25% 25%;
+	padding: 0;
+    margin: 0;
 
 }
 
